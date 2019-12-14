@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "com.testmavenjenkins.testBuild.GoogleTitleTest",
+    "children" : [ {
+      "name" : "verifyGoogleTitle",
+      "uid" : "2752e73c4e9bf6c1",
+      "parentUid" : "ec31b1165e6ec52bd7378a6927b9e248",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576326463839,
+        "stop" : 1576326472944,
+        "duration" : 9105
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "com.testmavenjenkins.testBuild.GoogleTitleTest"
+  } ]
+}

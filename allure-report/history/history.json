@@ -1,0 +1,22 @@
+{
+  "150b13f2571fb7c89f2ba6028c3697d8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2752e73c4e9bf6c1",
+      "reportUrl" : "http://localhost:8080/job/GoogleTest/5/allure/#testresult/2752e73c4e9bf6c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576326463839,
+        "stop" : 1576326472944,
+        "duration" : 9105
+      }
+    } ]
+  }
+}

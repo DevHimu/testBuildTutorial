@@ -1,0 +1,30 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Suite",
+    "children" : [ {
+      "name" : "Test",
+      "children" : [ {
+        "name" : "com.testmavenjenkins.testBuild.GoogleTitleTest",
+        "children" : [ {
+          "name" : "verifyGoogleTitle",
+          "uid" : "2752e73c4e9bf6c1",
+          "parentUid" : "105edb6c2f93a005e764b202653bc89f",
+          "status" : "passed",
+          "time" : {
+            "start" : 1576326463839,
+            "stop" : 1576326472944,
+            "duration" : 9105
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "105edb6c2f93a005e764b202653bc89f"
+      } ],
+      "uid" : "7314231e84d67a341867b5c9d3f928d2"
+    } ],
+    "uid" : "29f4dcc45a0e26cd7c7462063cee854b"
+  } ]
+}

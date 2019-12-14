@@ -1,0 +1,89 @@
+{
+  "uid" : "2752e73c4e9bf6c1",
+  "name" : "verifyGoogleTitle",
+  "fullName" : "com.testmavenjenkins.testBuild.GoogleTitleTest.verifyGoogleTitle",
+  "historyId" : "150b13f2571fb7c89f2ba6028c3697d8",
+  "time" : {
+    "start" : 1576326463839,
+    "stop" : 1576326472944,
+    "duration" : 9105
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ {
+    "name" : "tearDown",
+    "time" : {
+      "start" : 1576326473028,
+      "stop" : 1576326475345,
+      "duration" : 2317
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "com.testmavenjenkins.testBuild.GoogleTitleTest"
+  }, {
+    "name" : "testClass",
+    "value" : "com.testmavenjenkins.testBuild.GoogleTitleTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "verifyGoogleTitle"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "Test"
+  }, {
+    "name" : "subSuite",
+    "value" : "com.testmavenjenkins.testBuild.GoogleTitleTest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-B2H6JUI"
+  }, {
+    "name" : "thread",
+    "value" : "17952@DESKTOP-B2H6JUI.main(1)"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "19b748b5a2e24d52",
+      "status" : "passed",
+      "time" : {
+        "start" : 1576326282999,
+        "stop" : 1576326291805,
+        "duration" : 8806
+      }
+    }, {
+      "uid" : "8bce39d51f50e4f6",
+      "status" : "failed",
+      "statusDetails" : "Title should Google but found Google expected [Google2] but found [Google]",
+      "time" : {
+        "start" : 1576326243701,
+        "stop" : 1576326247517,
+        "duration" : 3816
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2752e73c4e9bf6c1.json",
+  "parameterValues" : [ ]
+}

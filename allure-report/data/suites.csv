@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Dec 14 17:57:43 IST 2019","Sat Dec 14 17:57:52 IST 2019","9105","Suite","Test","com.testmavenjenkins.testBuild.GoogleTitleTest","com.testmavenjenkins.testBuild.GoogleTitleTest","verifyGoogleTitle","verifyGoogleTitle",""

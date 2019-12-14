@@ -1,0 +1,60 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-B2H6JUI",
+    "children" : [ {
+      "name" : "17952@DESKTOP-B2H6JUI.main(1)",
+      "children" : [ {
+        "name" : "verifyGoogleTitle",
+        "uid" : "2752e73c4e9bf6c1",
+        "parentUid" : "8e84c4fb77d1bdbfb6921f5334128d9f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576326463839,
+          "stop" : 1576326472944,
+          "duration" : 9105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8e84c4fb77d1bdbfb6921f5334128d9f"
+    }, {
+      "name" : "15104@DESKTOP-B2H6JUI.main(1)",
+      "children" : [ {
+        "name" : "verifyGoogleTitle",
+        "uid" : "19b748b5a2e24d52",
+        "parentUid" : "97da07e990cfa52a8c8d0f252a8f1db6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576326282999,
+          "stop" : 1576326291805,
+          "duration" : 8806
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "97da07e990cfa52a8c8d0f252a8f1db6"
+    }, {
+      "name" : "17232@DESKTOP-B2H6JUI.main(1)",
+      "children" : [ {
+        "name" : "verifyGoogleTitle",
+        "uid" : "8bce39d51f50e4f6",
+        "parentUid" : "2c1be6bf4385afac5b195a642ca19b00",
+        "status" : "failed",
+        "time" : {
+          "start" : 1576326243701,
+          "stop" : 1576326247517,
+          "duration" : 3816
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2c1be6bf4385afac5b195a642ca19b00"
+    } ],
+    "uid" : "b1d343cef713f138d40228a58d8e40a0"
+  } ]
+}
